@@ -1,7 +1,3 @@
-
-#This bot is developed by Hamoudi AL-Amir 𓅂
-#Developer Channel | @MMMFi ✓.
-
 import telebot
 from googlesearch import search
 import yt_dlp
